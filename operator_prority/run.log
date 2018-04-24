@@ -1,0 +1,75 @@
+ncsim> run
+IDACis e77df and i is           0 
+idac_add[4:0]  is 1f
+idac_add[9:5]  is 1e
+idac_add[14:10]is 1d
+idac_add[19:15]is 1c
+idac_add[4:0]  is 0000001f
+idac_add[9:5]  is 00000020
+idac_add[14:10]is 00000021
+idac_add[19:15]is 00000022
+IDACis c675b and i is           1 
+idac_add[4:0]  is 1b
+idac_add[9:5]  is 1a
+idac_add[14:10]is 19
+idac_add[19:15]is 18
+idac_add[4:0]  is 0000001b
+idac_add[9:5]  is 0000001c
+idac_add[14:10]is 0000001d
+idac_add[19:15]is 0000001e
+IDACis a56d7 and i is           2 
+idac_add[4:0]  is 17
+idac_add[9:5]  is 16
+idac_add[14:10]is 15
+idac_add[19:15]is 14
+idac_add[4:0]  is 00000017
+idac_add[9:5]  is 00000018
+idac_add[14:10]is 00000019
+idac_add[19:15]is 0000001a
+IDACis 84653 and i is           3 
+idac_add[4:0]  is 13
+idac_add[9:5]  is 12
+idac_add[14:10]is 11
+idac_add[19:15]is 10
+idac_add[4:0]  is 00000013
+idac_add[9:5]  is 00000014
+idac_add[14:10]is 00000015
+idac_add[19:15]is 00000016
+IDACis 635cf and i is           4 
+idac_add[4:0]  is 0f
+idac_add[9:5]  is 0e
+idac_add[14:10]is 0d
+idac_add[19:15]is 0c
+idac_add[4:0]  is 0000000f
+idac_add[9:5]  is 00000010
+idac_add[14:10]is 00000011
+idac_add[19:15]is 00000012
+IDACis 4254b and i is           5 
+idac_add[4:0]  is 0b
+idac_add[9:5]  is 0a
+idac_add[14:10]is 09
+idac_add[19:15]is 08
+idac_add[4:0]  is 0000000b
+idac_add[9:5]  is 0000000c
+idac_add[14:10]is 0000000d
+idac_add[19:15]is 0000000e
+IDACis 214c7 and i is           6 
+idac_add[4:0]  is 07
+idac_add[9:5]  is 06
+idac_add[14:10]is 05
+idac_add[19:15]is 04
+idac_add[4:0]  is 00000007
+idac_add[9:5]  is 00000008
+idac_add[14:10]is 00000009
+idac_add[19:15]is 0000000a
+IDACis 00443 and i is           7 
+idac_add[4:0]  is 03
+idac_add[9:5]  is 02
+idac_add[14:10]is 01
+idac_add[19:15]is 00
+idac_add[4:0]  is 00000003
+idac_add[9:5]  is 00000004
+idac_add[14:10]is 00000005
+idac_add[19:15]is 00000006
+ncsim: *W,RNQUIE: Simulation is complete.
+ncsim> exit
